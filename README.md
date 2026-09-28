@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**pratikshapatil2446-dp/pratikshapatil2446-dp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Pratiksha Patil
+### QA Automation Tester | Selenium + Playwright | Hyderabad
 
-Here are some ideas to get you started:
+🎓 MSc Computer Science - 76.20% (2024) | BCA 76.67% (2022)
+🔧 Automation: Selenium WebDriver, Playwright, Java, TestNG, Maven
+🛠️ Tools: JIRA, Postman, SQL, Jenkins, GitHub
+📍 Open to Work - Hyderabad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Skills
+- Manual Testing: SDLC, STLC, BVA, ECP, Smoke, Regression, Agile
+- Automation: Selenium + Java, Playwright, Hybrid Framework
+- API & DB: Postman, REST API, SQL Server
+
+#### 📂 Projects
+- OrangeHRM Testing: 20+ Test Cases, JIRA Bugs, Selenium Automation
+- Playwright Practice: Login, Add Employee automated
+
+#### 📫 Connect
+📧 pratikshapatil2446@gmail.com
+
+⭐ Looking for QA Automation Roles - Selenium / Playwright!
