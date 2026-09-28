@@ -1,4 +1,3 @@
-
 # Hi 👋 I'm Pratiksha Patil
 ### QA Automation Tester | Selenium + Playwright | Hyderabad
 
